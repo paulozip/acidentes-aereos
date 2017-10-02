@@ -1,6 +1,6 @@
 <a href='https://github.com/paulozip/aeronautic-occurrences'><b>If you are English spoken, check out my English version of this repo.</b></a>
 
-#Acidentes aéreos no Brasil
+# Acidentes aéreos no Brasil
 Nesta apresentação, eu estarei utilizando dados abertos disponibilizados pela CENIPA - Centro de Investigação e Prevenção de Acidentes aeronáuticos. Tais arquivos conterão informações sobre ocorrências envolvendo aeronaves nos últimos 10 anos. Você pode acessar dados mais atualizados visitando <a href='http://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira'>a página oficial de Dados Abertos Brasileiros</a>, mas, caso deseje, poderá estar realizando o download dos datasets utilizados aqui através dos links de download abaixo.
 <br>
 <br>
@@ -12,7 +12,7 @@ Para este estudo, utilizarei de dois datasets da CENIPA:
 <br>
 <a href='./dataset/aeronave.csv'>Aeronave.csv</a>: informações agrupadas sobre as aeronaves envolvidas nas ocorrências registradas no arquivo ocorrencia.csv. Aqui serão encontrados dados como: Modelo da Aeronave, Tipo de Aeronave, Fabricante, Quantidade de Fatalidades, dentre outras.
 
-#Perguntas a serem respondidas
+# Perguntas a serem respondidas
 
 1. Quais são as maiores causas de ocorrências e, eventualmente, queda de aviões?
 2. Como tem sido a progressão desses casos nos últimos anos? Tiveram menos ocorrências ou mais?
@@ -23,7 +23,7 @@ Para este estudo, utilizarei de dois datasets da CENIPA:
 7. Viagens comerciais regulares tendem a ter mais problemas do que voos fretados?
 8. Quantos incidentes com fatalidades (morte de passageiros e tripulação) temos registro nos últimos 10 anos?
 
-#Requisitos
+# Requisitos
 
 * Python 3.5
 * Pandas
